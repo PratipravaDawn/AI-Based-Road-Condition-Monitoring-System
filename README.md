@@ -7,6 +7,7 @@ The system classifies road conditions into:
 - Speed Breaker  
 
 System Architecture
+
 MPU6050 Sensor → ESP32 → ML Processing → Bluetooth → Mobile App → Map Visualization
 
 Hardware Components
